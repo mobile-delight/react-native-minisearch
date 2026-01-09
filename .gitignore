@@ -84,3 +84,14 @@ android/generated
 
 # React Native Nitro Modules
 nitrogen/
+
+# AI Assistants
+.github/*
+!.github/CODEOWNERS
+!.github/workflows/
+!.github/dependabot.yml
+.claude/
+CLAUDE.md
+.specify/
+specs/
+
